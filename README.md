@@ -1,5 +1,5 @@
 # DinoLeds
-Arduino project Dinosaur Leds. There are four modes which can be changed using a push button. The speed of the leds can be changed using a potentiometer. The first mode is the led flicker at the same time. The second mode is the leds go on at random. The third mode is the leds go on from left to right. The fourth mode is the leds respond to the amount of sound in the environment. 
+Arduino project Dinosaur LEDs. There are four modes which can be changed using a push button. The speed of the LEDs can be changed using a potentiometer. In the first mode, all LEDs flicker at the same time, in the second mode the LEDs go on at random and in the third mode, the LEDs go on from left to right. The fourth mode lights the LEDs based on the volume of noise that is detected. 
 
 
 ![627c20da-0cfa-47a4-885a-04b3f705340d](https://github.com/JudRsk/DinoLeds/assets/79409725/1bfb43b0-26ed-4498-9ae7-b0ac5b039788)
